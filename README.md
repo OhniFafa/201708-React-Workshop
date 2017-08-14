@@ -1,6 +1,10 @@
-# Simple React Start Kit 2017
+# Tutorial Shopping Cart
 
-這個環境包可以讓你快速體驗 ReactJS 開發環境的便利，我們並沒有在裏面放入太多套件(例如 redux, karma)，希望可以讓你用最簡單的環境開始學習 React
+使用ReactStrap版型做出購物平台
+
+![Imgur](https://i.imgur.com/w7Iisd8.gif)
+
+## [DEMO](https://reactmaker.github.io/tutorial_shopping_cart/#/)
 
 ## 特色
 
@@ -9,6 +13,7 @@
 * [webpack 2](https://github.com/webpack/webpack)
 * [babel stage-0 ](https://github.com/babel/babel)
 * [eslint](http://eslint.org)
+* [reactstrap](https://reactstrap.github.io/)
 
 ## 需求配置
 * node `^4.5.0`
